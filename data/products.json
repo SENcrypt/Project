@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "title": "Ear Pods- Premium",
+      "price": "1000",
+      "url": "./images/product-11.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "title": "Controller",
+      "price": "1000",
+      "url": "./images/product-15.png",
+      "category": "Kids"
+    },
+    {
+      "id": 3,
+      "title": "Title- Product Name",
+      "price": "1000",
+      "url": "./images/product-2.png",
+      "category": "Women"
+    },
+    {
+      "id": 4,
+      "title": "CPU-Quad Core Dual Processor",
+      "price": "1000",
+      "url": "./images/cpu1.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "title": "Jewellery -  Product Name",
+      "price": "100",
+      "url": "./images/j1.png",
+      "category": "Women"
+    },
+    {
+      "id": 6,
+      "title": "Tech- PlayStation 5",
+      "price": "1000",
+      "url": "./images/play1.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Air Jordan - Red Panther",
+      "price": "500",
+      "url": "./images/product-4.png",
+      "category": "Kids"
+    },
+    {
+      "id": 8,
+      "title": "Product - Title",
+      "price": "300",
+      "url": "./images/product-7.png",
+      "category": "Women"
+    },
+    {
+      "id": 9,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/t1.png",
+      "category": "Men"
+    },
+    {
+      "id": 10,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/product-10.png",
+      "category": "Accessories"
+    },
+    {
+       "id": 1,
+      "title": "ADIDAS Premium - Yellow Jacket",
+      "price": "3000",
+      "url": "./images/jacket1.png",
+      "category": "Kids"
+    },
+    {
+      "id": 12,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/product-1.png",
+      "category": "Men"
+    },
+    {
+      "id": 13,
+      "title": "Apple - Smart iWatch",
+      "price": "1000",
+      "url": "./images/watch1.png",
+      "category": "Kids"
+    },
+    {
+      "id": 14,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/product-5.png",
+      "category": "Men"
+    },
+    {
+      "id": 15,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/t2.png",
+      "category": "Men"
+    },
+    {
+      "id": 16,
+      "title": "Product - Title",
+      "price": "1000",
+      "url": "./images/product-16.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 17,
+      "title": "High Heels",
+      "price": "1000",
+      "url": "./images/product-9.png",
+      "category": "Women"
+    },
+    {
+      "id": 18,
+      "title": "Smart iWatch",
+      "price": "1000",
+      "url": "./images/watch3.png",
+      "category": "Kids"
+    }
+  ]
+}
