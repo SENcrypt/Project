@@ -34,7 +34,7 @@ const ProductsWrapper = document.getElementById('products');
 
 window.addEventListener('DOMContentLoaded', async function () {
   let products = await getProducts();
-  products = products.filter((product) => product.category === 'Dresses');
+  products = products.filter((product) => product.category === 'Women');
   displayProductItems(products);
   loadData();
 });
@@ -105,7 +105,7 @@ const loadmore = document.querySelector('.loadmore');
 
 let currentIndex = 0;
 async function loadData() {
-  let maxResult = 9;
+  let maxResult = 6;
   let products = await getProducts();
   if (currentIndex >= products.length) {
     loadmore.disabled = true;
